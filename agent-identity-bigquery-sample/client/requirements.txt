@@ -1,0 +1,6 @@
+fastapi
+google-adk[agent-identity]
+google-auth
+google-cloud-aiplatform[agent_engines,adk]
+httpx
+uvicorn
